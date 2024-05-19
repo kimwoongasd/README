@@ -25,11 +25,43 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2> <br> 
-    <div style="text-align: left;"> <a href=https://velog.io/@somsom0615/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@somsom0615/posts"> </a>
-         <a href=https://www.notion.so/7d5eaba7ce2c4a2ba7463ad66a527f16?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/7d5eaba7ce2c4a2ba7463ad66a527f16?pvs=4"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    <div style="text-align: left;"> 쌍용강북교육센터 수료 (2023.09~2024.04) </div> 
     </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Project </h2> <br> 
+    </div>
+    ## 🖥️ 프로젝트 소개
+SpringBoot-Project- 유스레시피 U's Recipe<br>
+스프링 부트 + thymeleaf를 통한
+레시피조회, 재료구매 사이트
+
+유스레시피에서 쉽고 편리하게
+다양한 레시피를 경험하고
+재료를 구매하여 건강한 한끼를
+경험하세요
+<br>
+
+## 🕰️ 개발 기간
+* 24.03.26일 - 24.04.24일
+
+### ⚙️ 개발 환경
+- `Java 17`
+- `JDK 1.8.0`
+- **IDE** : IntelliJ
+- **Framework** : Springboot(3.24)
+- **Database** : Mysql
+- **ORM** : JPA
+
+## 📌 주요 기능
+#### 로그인 - 
+- DB값 검증
+- ID찾기, PW찾기
+- 로그인 시 세션(Session) 생성
+- 소셜로그인 구현(네이버,카카오,구글)
+#### 회원가입 - 
+- 주소 API 연동
+- ID 중복 체크,패스워드 검증
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@somsom0615/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@somsom0615/posts"> </a>
