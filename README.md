@@ -27,7 +27,7 @@
     <div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2> <br> 
         쌍용강북교육센터
-        > 수료 (2023.09~2024.04)
+        수료 (2023.09~2024.04)
     </div>
     
     <div style="text-align: left;">
