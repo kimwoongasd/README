@@ -23,6 +23,13 @@
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           </div>
     </div>
+
+    <div style="text-align: left;">
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2> <br> 
+        쌍용강북교육센터
+        > 수료 (2023.09~2024.04)
+    </div>
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@somsom0615/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@somsom0615/posts"> </a>
