@@ -31,8 +31,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Project </h2> <br> 
     </div>
-## 🖥️ 프로젝트 소개
-SpringBoot-Project- 유스레시피 U's Recipe<br>[https://github.com/beom324/finalProject]
+🖥️ 프로젝트 소개
+[SpringBoot-Project- 유스레시피 U's Recipe](https://github.com/beom324/finalProject)
 스프링 부트 + thymeleaf를 통한
 레시피조회, 재료구매 사이트
 
