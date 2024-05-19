@@ -31,8 +31,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Project </h2> <br> 
     </div>
-    ## 🖥️ 프로젝트 소개
-SpringBoot-Project- 유스레시피 U's Recipe<br>
+## 🖥️ 프로젝트 소개
+SpringBoot-Project- 유스레시피 U's Recipe<br>[https://github.com/beom324/finalProject]
 스프링 부트 + thymeleaf를 통한
 레시피조회, 재료구매 사이트
 
@@ -54,12 +54,12 @@ SpringBoot-Project- 유스레시피 U's Recipe<br>
 - **ORM** : JPA
 
 ## 📌 주요 기능
-#### 로그인 - 
+#### 로그인
 - DB값 검증
 - ID찾기, PW찾기
 - 로그인 시 세션(Session) 생성
 - 소셜로그인 구현(네이버,카카오,구글)
-#### 회원가입 - 
+#### 회원가입
 - 주소 API 연동
 - ID 중복 체크,패스워드 검증
     <div style="text-align: left;">
