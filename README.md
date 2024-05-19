@@ -25,12 +25,6 @@
     </div>
 
     <div style="text-align: left;">
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Experience </h2> <br> 
-        쌍용강북교육센터
-        수료 (2023.09~2024.04)
-    </div>
-    
-    <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@somsom0615/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@somsom0615/posts"> </a>
          <a href=https://www.notion.so/7d5eaba7ce2c4a2ba7463ad66a527f16?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/7d5eaba7ce2c4a2ba7463ad66a527f16?pvs=4"> </a>
